@@ -36,7 +36,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://featherweightweb.github.io"
+url: "https://www.featherweightweb.com"
 baseurl: ""
 paginate: 20
 per_page: 20
